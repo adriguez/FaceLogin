@@ -1,4 +1,4 @@
-package com.androidexample.facebook;
+package com.samplelogin.facebook;
  
 import android.app.Activity;
 import android.content.Intent;
